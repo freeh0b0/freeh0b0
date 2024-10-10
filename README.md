@@ -1,7 +1,10 @@
-## Hi there 👋
+# About me
+* Interested in web development and graphics programming
+* Currently pursuing college
+* Exploring the world of open source
+* Trying out linux distros in my free time
 
 <!--
-**freeh0b0/freeh0b0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
