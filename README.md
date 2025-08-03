@@ -2,7 +2,6 @@
 * Interested in web development and graphics programming
 * Currently pursuing college
 * Exploring the world of open source
-* Trying out linux distros in my free time
 
 <!--
 
